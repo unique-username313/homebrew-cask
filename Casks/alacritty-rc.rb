@@ -1,4 +1,4 @@
-cask 'alacritty' do
+cask 'alacritty-rc' do
   version '0.5.0-rc1'
   sha256 :no_check
 
