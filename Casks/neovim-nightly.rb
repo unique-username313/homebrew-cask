@@ -1,5 +1,5 @@
 cask 'neovim-nightly' do
-  version '0.5.0_624'
+  version '0.5.0_634'
   sha256 :no_check
 
   # github.com/neovim/neovim was verified as official when first introduced to the cask
