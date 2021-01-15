@@ -1,5 +1,5 @@
 cask 'alacritty-rc' do
-  version '0.5.0'
+  version '0.7.1'
   sha256 :no_check
 
   url "https://github.com/alacritty/alacritty/releases/download/v#{version}/Alacritty-v#{version}.dmg"
